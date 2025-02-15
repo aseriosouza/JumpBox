@@ -1,7 +1,7 @@
 # JumpBox 🚀
 
-![GitHub](https://img.shields.io/github/license/seu-usuario/JumpBox)
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario/JumpBox?style=social)
+![GitHub](https://img.shields.io/github/license/aseriosouza/JumpBox)
+![GitHub stars](https://img.shields.io/github/stars/aseriosouza/JumpBox?style=social)
 
 ## O que é o JumpBox?
 
